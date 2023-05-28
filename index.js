@@ -5,14 +5,17 @@ function hasTargetSum(array, target) {
 /* 
   Write the Big O time complexity of your function here
 */
+// 
 
 /* 
   Add your pseudocode here
 */
+// the array will be true if the numbers of the array is sum to the total
 
 /*
   Add written explanation of your solution here
 */
+// the only way it will be true if the numbers add up to it
 
 // You can run `node index.js` to view these console logs
 if (require.main === module) {
